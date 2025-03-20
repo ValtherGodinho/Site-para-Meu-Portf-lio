@@ -1,7 +1,7 @@
 # ValtherGodinho.github.io
 Site para meu Portfolio
 
-https://github.com/ValtherGodinho/Site-para-Meu-Portf-lio/edit/main/README.md
+https://valthergodinho.github.io/Site-para-Meu-Portf-lio/#s-about
 
 Tenho como objetivo:
 
